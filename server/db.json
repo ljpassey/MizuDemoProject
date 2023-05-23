@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "albumName": "The Dark Side of the Moon",
+    "artistName": "Pink Floyd",
+    "trackList": [
+      "Speak to Me",
+      "Breathe",
+      "On the Run",
+      "Time",
+      "The Great Gig in the Sky",
+      "Money",
+      "Us and Them",
+      "Any Colour You Like",
+      "Brain Damage",
+      "Eclipse"
+    ]
+  },
+  {
+    "id": 2,
+    "albumName": "The Wall",
+    "artistName": "Pink Floyd",
+    "trackList": [
+      "In the Flesh?",
+      "The Thin Ice",
+      "Another Brick in the Wall (Part I)",
+      "The Happiest Days of Our Lives",
+      "Another Brick in the Wall (Part II)",
+      "Mother",
+      "Goodbye Blue Sky",
+      "Empty Spaces",
+      "Young Lust",
+      "One of My Turns",
+      "Don't Leave Me Now",
+      "Another Brick in the Wall (Part III)",
+      "Goodbye Cruel World",
+      "Hey You",
+      "Is There Anybody Out There?",
+      "Nobody Home",
+      "Vera"
+    ]
+  },
+  {
+    "id": 3,
+    "albumName": "Rumors",
+    "artistName": "Fleetwood Mac",
+    "trackList": [
+      "Second Hand News",
+      "Dreams",
+      "Never Going Back Again",
+      "Don't Stop",
+      "Go Your Own Way"
+    ]
+  },
+  {
+    "id": 4,
+    "albumName": "Brothers",
+    "artistName": "The Black Keys",
+    "trackList": [
+      "Everlasting Light",
+      "Next Girl",
+      "Tighten Up",
+      "Howlin' for You",
+      "She's Long Gone"
+    ]
+  }
+]
